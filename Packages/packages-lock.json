@@ -12,6 +12,18 @@
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.addressables": {
+      "version": "1.11.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.scriptablebuildpipeline": "1.8.6",
+        "com.unity.modules.assetbundle": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.unitywebrequestassetbundle": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.cinemachine": {
       "version": "2.3.4",
       "depth": 0,
@@ -39,6 +51,21 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
+    },
+    "com.unity.hlod": {
+      "version": "file:HLODSystem/com.unity.hlod",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.unity.hlod.addressable": {
+      "version": "file:HLODSystem/com.unity.hlod.addressable",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.hlod": "0.0.1-preview",
+        "com.unity.addressables": "1.11.2"
+      }
     },
     "com.unity.ide.rider": {
       "version": "1.1.4",
@@ -86,6 +113,13 @@
       "dependencies": {
         "com.unity.settings-manager": "1.0.0"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.scriptablebuildpipeline": {
+      "version": "1.8.6",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.settings-manager": {
