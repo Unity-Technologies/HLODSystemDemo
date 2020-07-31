@@ -19,7 +19,7 @@ TagManager:
   - PostProcessing
   - SetDressing
   - 
-  - 
+  - HLOD
   - Vehicles
   - Navmesh
   - Environment
