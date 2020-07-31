@@ -1,0 +1,3 @@
+[submodule "Packages/HLODSystem"]
+	path = Packages/HLODSystem
+	url = git@github.com:Unity-Technologies/HLODSystem.git
