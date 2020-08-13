@@ -1,5 +1,6 @@
 # HLODSystemDemo
 HLODSystem is applied to 3DGameKit.
+https://docs.google.com/document/d/1nHzYJ6KXgYUvIv1HjCGrx6tcSkhOezQfVkUC2zqcZXQ/edit?usp=sharing
 
 ## Prerequisites
 ### Unity
